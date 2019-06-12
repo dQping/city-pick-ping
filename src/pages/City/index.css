@@ -1,0 +1,23 @@
+.am-list-line {
+  border-bottom: 1px solid #f3eeee !important;
+}
+.pos-card {
+  margin-bottom: 0.3rem;
+}
+.pos-card h4 {
+  margin-left: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+.pos-list {
+  list-style: none;
+  background: #fff;
+  padding: 0.8rem 0;
+}
+.pos-list .city-item {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.2rem 0.8rem;
+  font-size: 1rem;
+  margin: 0.3rem 0.5rem;
+}
